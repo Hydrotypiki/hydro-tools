@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# HEC-RAS gridded precipitation data
+/hec-ras-gridded-precip/input/
+/hec-ras-gridded-precip/output/
